@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\bin\Debug\netcoreapp3.0\CatsNDogs.exe
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\bin\Debug\netcoreapp3.0\CatsNDogs.deps.json
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\bin\Debug\netcoreapp3.0\CatsNDogs.runtimeconfig.json
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\bin\Debug\netcoreapp3.0\CatsNDogs.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\bin\Debug\netcoreapp3.0\CatsNDogs.dll
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\bin\Debug\netcoreapp3.0\CatsNDogs.pdb
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\obj\Debug\netcoreapp3.0\CatsNDogs.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\obj\Debug\netcoreapp3.0\CatsNDogs.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\obj\Debug\netcoreapp3.0\CatsNDogs.AssemblyInfo.cs
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\obj\Debug\netcoreapp3.0\CatsNDogs.dll
+C:\Users\kolev\source\repos\CatsNDogs\CatsNDogs\obj\Debug\netcoreapp3.0\CatsNDogs.pdb
