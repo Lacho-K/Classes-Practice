@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\bin\Debug\netcoreapp3.0\Class(like actual class).exe
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\bin\Debug\netcoreapp3.0\Class(like actual class).deps.json
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\bin\Debug\netcoreapp3.0\Class(like actual class).runtimeconfig.json
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\bin\Debug\netcoreapp3.0\Class(like actual class).runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\bin\Debug\netcoreapp3.0\Class(like actual class).dll
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\bin\Debug\netcoreapp3.0\Class(like actual class).pdb
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\obj\Debug\netcoreapp3.0\Class(like actual class).csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\obj\Debug\netcoreapp3.0\Class(like actual class).AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\obj\Debug\netcoreapp3.0\Class(like actual class).AssemblyInfo.cs
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\obj\Debug\netcoreapp3.0\Class(like actual class).dll
+C:\Users\kolev\source\repos\Class(like actual class)\Class(like actual class)\obj\Debug\netcoreapp3.0\Class(like actual class).pdb
