@@ -1,0 +1,13 @@
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.exe
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.deps.json
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.runtimeconfig.json
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.dll
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.pdb
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.dll
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.pdb
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.genruntimeconfig.cache
