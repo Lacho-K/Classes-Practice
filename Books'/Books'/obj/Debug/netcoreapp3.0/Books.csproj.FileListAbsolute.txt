@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Books'\Books'\bin\Debug\netcoreapp3.0\Books.exe
+C:\Users\kolev\source\repos\Books'\Books'\bin\Debug\netcoreapp3.0\Books.deps.json
+C:\Users\kolev\source\repos\Books'\Books'\bin\Debug\netcoreapp3.0\Books.runtimeconfig.json
+C:\Users\kolev\source\repos\Books'\Books'\bin\Debug\netcoreapp3.0\Books.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Books'\Books'\bin\Debug\netcoreapp3.0\Books.dll
+C:\Users\kolev\source\repos\Books'\Books'\bin\Debug\netcoreapp3.0\Books.pdb
+C:\Users\kolev\source\repos\Books'\Books'\obj\Debug\netcoreapp3.0\Books.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Books'\Books'\obj\Debug\netcoreapp3.0\Books.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Books'\Books'\obj\Debug\netcoreapp3.0\Books.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Books'\Books'\obj\Debug\netcoreapp3.0\Books.dll
+C:\Users\kolev\source\repos\Books'\Books'\obj\Debug\netcoreapp3.0\Books.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "07/wM6ghJ6M4ilAKTH/vJtOmC14czkP2acTL1PVH+ER9eQravD2KiHrd6LKJqnfbsxTsImADeYhG5yY/69XRXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolev\\source\\repos\\Books'\\Books'\\IteratorsAndComparators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
